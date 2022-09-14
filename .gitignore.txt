@@ -1,1 +1,3 @@
 test.sh/
+y/
+y.pub/
