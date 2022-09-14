@@ -1,0 +1,4 @@
+echo "Your name";
+read name;
+echo "You have enterd" $name;
+echo "Your surname is" $surname;
